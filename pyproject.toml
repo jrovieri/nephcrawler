@@ -7,6 +7,7 @@ authors = ["Jonathan Rovieri <jrovieri@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 Scrapy = "^2.5.1"
+scrapy-fake-useragent = "^1.4.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
